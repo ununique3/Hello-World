@@ -1,0 +1,56 @@
+#p01 {
+    color:mediumblue;
+    text-opacity: 1;
+    background-color:RGBa(0, 191, 255, 0.8);
+    background-opacity:0.6;
+    border: 3px solid mediumblue;
+    border-radius:14px,20px;
+    border-style: outset;
+    padding: 18px;
+    margin: 20px
+}
+
+
+body {
+    background: url(https://github.com/ununique3/Hello-World/blob/master/powershot%207-14%20626_Fotor_%20inverted.jpg?raw=true);
+    background-attachment: fixed;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color:black;
+    margin-top: 0;
+    margin-bottom: 0
+    
+}
+h1 {
+    color:mediumspringgreen;
+    font-size:300%;
+    background: url(https://github.com/ununique3/Hello-World/blob/master/outputcropped.GIF?raw=true);
+    background-repeat: no-repeat;
+    background-opacity:0.2;
+    border-radius:14px;
+}
+h2 {
+    color:khaki;
+    border: 7px solid darkkhaki;
+    padding: 10px;
+    margin: 50px
+}
+p {
+    color:black;
+    text-opacity: 1;
+    background-color:RGBa(0, 191, 255, 0.7);
+    background-opacity:0.6;
+    border: 3px solid mediumblue;
+    border-radius:14px;
+    padding: 18px;
+    margin: 20px
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid yellow;
+    margin: 1em 0;
+    padding: 0; 
+}
